@@ -33,6 +33,8 @@ https://pereira-devcarlos.github.io/portfolio/
 ## 📬 Contato
 
 - GitHub: [@pereira-devcarlos](https://github.com/pereira-devcarlos)
+- LinkedIn: [@contato-devcarlos](https://www.linkedin.com/in/contatodevcarlos/)
+- Instagram: [@pereira_duuh](https://www.instagram.com/pereira_duuh/)
 
 ---
 
